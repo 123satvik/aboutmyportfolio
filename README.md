@@ -28,32 +28,6 @@ satvik-portfolio/
 
 ---
 
-## 🚀 How to Run
-
-### Option 1 — Just open in browser (simplest)
-1. Download the entire `satvik-portfolio/` folder
-2. Double-click `index.html`
-3. It opens directly in your browser ✅
-
-### Option 2 — VS Code + Live Server (recommended for editing)
-1. Open VS Code
-2. Install the **Live Server** extension (`Ctrl+Shift+X` → search "Live Server")
-3. Open the `satvik-portfolio/` folder in VS Code
-4. Right-click `index.html` → **"Open with Live Server"**
-5. Portfolio runs at `http://127.0.0.1:5500` with auto-reload on save ✅
-
----
-
-## 🌐 Deploy on GitHub Pages (free hosting)
-
-1. Create a new repo on GitHub (e.g. `portfolio`)
-2. Upload all files keeping the same folder structure
-3. Go to **Settings → Pages → Source → main branch → / (root)**
-4. Your portfolio will be live at:
-   `https://123satvik.github.io/portfolio/`
-
----
-
 ## 🎨 Customization
 
 All colors are defined as CSS variables at the top of `css/style.css`:
@@ -67,7 +41,6 @@ All colors are defined as CSS variables at the top of `css/style.css`:
 }
 ```
 
-Change any value there and it updates everywhere instantly.
 
 ---
 
@@ -82,6 +55,3 @@ Change any value there and it updates everywhere instantly.
 | Project 2   | 123satvik/Sales-Dashboard-Power-BI                      |
 | Project 3   | 123satvik/Customer-Churn-Prediction                     |
 | Project 4   | 123satvik/End-to-End-Cricket-Analytics                  |
-
-> Update your email in `index.html` → contact section (`satvik@email.com`)
-> Update your LinkedIn URL in `index.html` → contact section
